@@ -1,0 +1,18 @@
+// Resets
+*,*:before,*:after{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+};
+
+// Font
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&display=swap');
+
+// Brand Colors
+$bronze : "#9b794e";
+$iron: "#050505";
+$smoke: "#fff";
+
+body,html{
+    font-family: 'Montserrat', sans-serif;
+}
